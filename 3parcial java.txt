@@ -1,0 +1,23 @@
+import java.util.Scanne;
+public class NombreApellido{
+    
+    public static void main(String[] args){
+        //Todo Auto-generated method stu
+        Scanner teclado = new Scanner(System.in);
+        
+    string nom ,ape;
+    
+    System.out.println("ingrese su nombre");
+    
+    nom =teclado.nextLine();
+    
+    System.out.println("ingrese su apellido");
+    
+    ape = teclado.nextLine();
+    
+    System.out.println("hola mi nombre es: "+
+    nom);
+    System.out.println("mi apellido es: "+
+    ape);
+   } 
+}
